@@ -1,6 +1,6 @@
 body{
   font-family: 'Montserrat';
-
+  margin: 0;
 }
 h1{
   font-size: 60px;
@@ -11,7 +11,8 @@ h1{
   font-size: 20px;
   letter-spacing: -0.02em;
   color: #828282;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
+  font-weight: 500;
 }
 .btn{
   text-decoration: none;
@@ -41,3 +42,21 @@ h1{
 .half-width img{
   width: 100%;
 }
+.second-para{
+  font-size: 18px;
+  letter-spacing: -0.02em;
+  color: #18191F;
+  margin-bottom: 100px;
+  font-weight: 400;
+  padding-right: 100px;
+}
+#second-img{
+  width: 338px;
+  height: 536px;
+  margin-left: 100px;
+}
+.middle-banner{
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+}
+
