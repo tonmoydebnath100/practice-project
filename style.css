@@ -7,6 +7,16 @@ h1{
   color: #575757;
   letter-spacing: -0.02em;
 }
+h2{
+  font-size: 40px;
+  color: #575757;
+  letter-spacing: -0.02em;
+}
+h2{
+  font-size: 35px;
+  color: #575757;
+  letter-spacing: -0.02em;
+}
 .Heading-para{
   font-size: 20px;
   letter-spacing: -0.02em;
@@ -59,4 +69,83 @@ h1{
   background-image: url(images/shapes/7.png);
   background-repeat: no-repeat;
 }
+.third-para{
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  color: #18191F;
+  margin-bottom: 100px;
+  font-weight: 400;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.third-heading{
+  text-align: center;
+}
+.half-width2 img{
+  width: 100%;
+  height: 60%;
+}
+.half-width2{
+  width: 50%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+  margin-left: 50px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 40px gray;
+}
+.third-para2{
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  color: #18191F;
+  font-weight: 300;
+  margin: 0;
+}
+.felxible-container2{
+  display: flex;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+.black-color{
+  color: #18191F;
+  margin: 0;
+}
+.felxible-container3{
+  display: flex;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+  margin-left: 50px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  border-radius: 30px;
+  box-shadow: 10px 10px 40px gray;
+}
+.half-width3{
+  margin-left: 150px;
+}
+.media-name{
+  font-size: 18px;
+  letter-spacing: -0.02em;
+  color: #18191F;
+  font-weight: 400;
+  padding-right: 100px;
+}
+footer{
+  text-align: center;
+  background-color: #0B0D17;
+  padding-top: 25px;
+  padding-bottom: 100px;
+}
+footer p{
+  text-align: center;
+  margin-left: 100px;
+  font-size: 18px;
+  letter-spacing: -0.02em;
+  color: #fff;
+  font-weight: 400;
+  padding-right: 100px;
+}
+
 
