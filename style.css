@@ -1,0 +1,43 @@
+body{
+  font-family: 'Montserrat';
+
+}
+h1{
+  font-size: 60px;
+  color: #575757;
+  letter-spacing: -0.02em;
+}
+.Heading-para{
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  color: #828282;
+  margin-bottom: 50px;
+}
+.btn{
+  text-decoration: none;
+  padding: 20px 30px;
+  font-size: 18px;
+  color: #fff;
+  border-radius: 100px;
+  background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+  
+}
+.orange-color{
+  background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+.felxible-container{
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width{
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.half-width img{
+  width: 100%;
+}
